@@ -1,4 +1,4 @@
-# Parse query string
+# Form serialise
 
 Small lib for serialising form inputs.
 
