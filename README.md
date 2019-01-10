@@ -2,6 +2,8 @@
 
 Small lib for serialising form inputs.
 
+[![Build Status](https://travis-ci.com/richard-cargill/form-serialise.svg?branch=master)](https://travis-ci.com/richard-cargill/form-serialise)
+
 ## Install
 
 ``` 
